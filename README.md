@@ -10,3 +10,10 @@ A linear regression using the data from 1880 to 2013 produced the following line
 
 ![Linear regression](https://raw.githubusercontent.com/RamonPuon/Sea-Level-Predictor/main/notebooks/sea_level_regression.png)
 
+
+Carrying out a linear regression just with data from 2000 to 2013, produced the following line.
+
+![Linear regression 2](https://raw.githubusercontent.com/RamonPuon/Sea-Level-Predictor/main/notebooks/sea_level_regression2.png)
+
+The second model predicts a higher sea level by 2050. Indicating that in recent years the rate of sea level rise has been increasing. 
+
