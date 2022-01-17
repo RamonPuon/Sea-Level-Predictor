@@ -6,4 +6,4 @@ The data set was retrieved from [Datahub](https://datahub.io/core/sea-level-rise
 
 The objective of this assigment is to generate line of best fit in order to predict the global sea level change in 2050. Using data from 1880 to 2013. This was achieved using the linregress function from scipy.stats.
 
-![Linear regression]()
+![Linear regression](https://raw.githubusercontent.com/RamonPuon/Sea-Level-Predictor/main/notebooks/sea_level_regression.png)
